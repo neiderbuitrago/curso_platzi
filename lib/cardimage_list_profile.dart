@@ -16,7 +16,7 @@ class CardimageListProfile extends StatelessWidget {
             width: double.infinity,
             title: 'Hotel Cerro Dorado',
             ommentPhoto:
-                'l Hotel Campestre Cerro Dorado se ubica en la localidad colombiana de Mariquita, entre preciosas montañas y a solo un par de kilómetros del aeropuerto de la ciudad',
+                'Hotel Campestre Cerro Dorado se ubica en la localidad colombiana de Mariquita, entre preciosas montañas y a solo un par de kilómetros del aeropuerto de la ciudad',
             viewPhoto: 121554,
           ),
           CardProfile(

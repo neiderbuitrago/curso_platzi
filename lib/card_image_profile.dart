@@ -40,7 +40,7 @@ class CardProfile extends StatelessWidget {
       ),
     );
     return Stack(
-      alignment: const Alignment(0.0, 2.0),
+      alignment: const Alignment(0.0, 1.8),
       children: <Widget>[
         card,
         ReviewImageProfile(

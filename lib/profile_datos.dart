@@ -4,7 +4,7 @@ import 'package:flutter_application_curso_platzi/conponentes.dart';
 class ProfileDatos extends StatelessWidget {
   final String pathImage, name, email;
   final double size;
-  ProfileDatos({
+  const ProfileDatos({
     Key? key,
     required this.pathImage,
     required this.size,

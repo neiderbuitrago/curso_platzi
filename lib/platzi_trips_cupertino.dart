@@ -8,7 +8,7 @@ class PlatziTripsCupertino extends StatefulWidget {
   const PlatziTripsCupertino({Key? key}) : super(key: key);
 
   @override
-  _PlatziTripsCupertinoState createState() => new _PlatziTripsCupertinoState();
+  _PlatziTripsCupertinoState createState() => _PlatziTripsCupertinoState();
 }
 
 class _PlatziTripsCupertinoState extends State<PlatziTripsCupertino> {

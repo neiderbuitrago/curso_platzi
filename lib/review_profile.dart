@@ -66,7 +66,7 @@ class ReviewImageProfile extends StatelessWidget {
       ),
     );
     final card = Container(
-      height: 148.0,
+      height: 138.0,
       width: 320.0,
       margin: const EdgeInsets.all(0.0),
       decoration: const BoxDecoration(
@@ -91,7 +91,7 @@ class ReviewImageProfile extends StatelessWidget {
       ),
     );
     return Stack(
-      alignment: const Alignment(0.7, 0.8),
+      alignment: const Alignment(0.7, 1.1),
       children: <Widget>[
         card,
         FloatingActionButton1(
